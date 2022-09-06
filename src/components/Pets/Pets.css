@@ -1,0 +1,23 @@
+.container {
+    width: 90%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+  }
+  
+.pet {
+    width: 30%;
+    height: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+  
