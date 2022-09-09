@@ -23,7 +23,7 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    border: 1px solid lightcoral;
+    border: 1px solid lightgray;
     border-radius: 15px;
 }
 
@@ -57,4 +57,8 @@
 
 .decrement-btn:hover {
     background-color: maroon;
+}
+
+.change-color-btn {
+    background-color: blue;
 }
